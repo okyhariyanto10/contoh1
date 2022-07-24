@@ -1,3 +1,6 @@
+// CONTOH LATIHAN GIT
+// CONTOH LATIHAN GIT
+
 package main
 
 import "fmt"
